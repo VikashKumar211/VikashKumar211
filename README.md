@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Vikash Kumar 👋</h1>
 <h3 align="center">QA Automation Engineer | Healthcare Insurance (PBM) Domain | 4+ Years @ Cognizant</h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 - 🤖 I build reliable, maintainable test automation frameworks for **web** and **API** testing
 - 🐞 Experienced in both **manual** and **automated** testing across Agile teams
 - 🌱 Currently sharpening my skills in [add: e.g. CI/CD, BDD/Cucumber, Docker, Cloud testing]
-- 📫 Reach me at **your.email@example.com**
+- 📫 Reach me at **yadav.vikash2012@gmail.com**
 
 ---
 
